@@ -74,6 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+    label[0] : ["중국식 냉면은 맛있어"], "images" : []},
+    label[1] : ["짜장면은 맛있어"], "images" : ["https://www.google.com/imgres?q=%EC%A7%9C%EC%9E%A5%EB%A9%B4&imgurl=https%3A%2F%2Fimage.greating.co.kr%2FIL%2Fitem%2F202503%2F25%2F8ACD551BCD0340238443B927DB0DB2A9.jpg&imgrefurl=https%3A%2F%2Fwww.greating.co.kr%2Fmarket%2FmarketDetail%3FitemId%3D160920&docid=HXNMfDSe4A6EnM&tbnid=wtbyyjTaUq9XaM&vet=12ahUKEwibxcmOv4KRAxVNsFYBHXBVBL8QM3oECBIQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwibxcmOv4KRAxVNsFYBHXBVBL8QM3oECBIQAA"]},
+    label[2] : ["짬뽕은 맛있어"], "images" :
+    label[3] : ["탕수육은 맛있어"], "images" :
 }
 
 # ======================
